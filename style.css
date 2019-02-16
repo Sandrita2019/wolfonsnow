@@ -1,0 +1,25 @@
+h1 {
+color: pink;
+background-color: blue;
+font-family: 'Libre Barcode 39 Text', cursive;
+  }
+
+
+#banner{  
+padding-right: : : 150px; 
+ text-align: center;
+ background-image: url(https://images.unsplash.com/photo-1549926345-dd490df47bd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80);
+ background-size: 100% cover;
+ height:90vh;
+ width:50vw;
+} 
+
+#banner h1{
+	color: white;
+	opacity: 0.8;
+font-size:30px;
+font-weight: lighter;
+}
+#footer {
+	padding: 30px;
+}
